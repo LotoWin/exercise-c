@@ -1,0 +1,2 @@
+# exercise-c
+learning c
